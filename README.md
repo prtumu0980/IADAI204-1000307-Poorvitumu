@@ -41,3 +41,8 @@ Dynamic charts allowing drill-down exploration.
 Conclusion
 
 The dashboard demonstrates how player performance metrics and contextual factors such as toss decisions and venues influence IPL match outcomes. Future improvements could include advanced predictive modelling and deeper over-wise analysis.
+
+The dataset used for this project consists of matches.csv and deliveries.csv.
+Due to file size limitations on GitHub, raw files are not uploaded.
+The packaged Tableau workbook (.twbx) contains the dataset internally.
+
