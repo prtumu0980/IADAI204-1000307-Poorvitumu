@@ -46,3 +46,4 @@ The dataset used for this project consists of matches.csv and deliveries.csv.
 Due to file size limitations on GitHub, raw files are not uploaded.
 The packaged Tableau workbook (.twbx) contains the dataset internally.
 
+<img width="1192" height="740" alt="image" src="https://github.com/user-attachments/assets/a8ce902a-9580-4c5b-8785-6ac2ae5d9f45" />
